@@ -122,7 +122,7 @@
 </nav>
 
 <div class="container" id="introduction">
-  <h1>SITA.dev</h1>
+  <h1>SITA.dev  - Your Strategic partner for tech talent and businees growth</h1>
   <p>SITA.dev, based in Stockholm, Sweden, is making significant strides in empowering individuals, especially international talent, and addressing the shortage of skilled professionals in the tech industry. SITA.dev is revolutionizing the way people start or restart their careers in Sweden, enabling diversity, inclusion, and equality within the tech sector.</p>
   <a href="#solution" class="cta-button">Learn More</a>
 </div>
